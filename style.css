@@ -1,0 +1,61 @@
+.container{
+    display: grid;
+    /* grid-template-columns: 300px 100px 100px;*/
+    grid-template-columns:repeat(10,auto);
+    grid-gap:2rem;
+
+}
+#boxes-1{
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 20px;;
+    padding:20px 30px;
+}
+#boxes-2{
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 20px;;
+    padding:20px 30px;
+}
+#boxes-3{
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 20px;;
+    padding:20px 30px;
+}
+#boxes-4{
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 20px;;
+    padding:20px 30px;
+}
+#boxes-5{
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 20px;;
+    padding:20px 30px;
+}
+#boxes-6{
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 20px;;
+    padding:20px 30px;
+}
+#boxes-7{
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 20px;;
+    padding:20px 30px;
+}
+#boxes-8{
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 20px;;
+    padding:20px 30px;
+}
+#boxes-9{
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 20px;;
+    padding:20px 30px;
+}
